@@ -7,6 +7,8 @@ MapAutocorrelationAnalyzer is a Python program for analyzing spatial autocorrela
 * Generate vector grid from RGB image
 * Calculate Moran's I and Geary's C indices
 * Test the significance of Moran's I and Geary's C indices
+* Calculcate and test local Moran's I
+* Plot LISA cluster type map and Moran scatter
 * Save results to a text file
 
 ## Usage
